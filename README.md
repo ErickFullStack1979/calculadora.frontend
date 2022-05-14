@@ -1,6 +1,6 @@
 # calculadora.frontend
 
-Para usar esta calculadora, solo debes pulsar los botones según la operación que desees realizar.
+Para usar esta calculadora, solo debes pulsar los botones según la operación que desees realizar. El paquete de archivos se encuentra en la rama "master".
 
 Finalmente presionas "=" y te dará el resultado correspondiente.
 
